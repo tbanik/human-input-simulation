@@ -1,5 +1,5 @@
 {
-  "name": "human-input-simulation",
+  "name": "his",
   "version": "0.1.2",
   "description": "emulate human mouse and keyboard input",
   "main": "index.js",
