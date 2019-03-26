@@ -1,0 +1,21 @@
+{
+  "name": "human-input-simulation",
+  "version": "0.1.2",
+  "description": "emulate human mouse and keyboard input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "human",
+    "robot",
+    "emulation",
+    "simulation",
+    "input"
+  ],
+  "author": "Tony Banik",
+  "license": "ISC",
+  "dependencies": {
+    "robotjs": "^0.5.1"
+  }
+}
