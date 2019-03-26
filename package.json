@@ -1,7 +1,7 @@
 {
   "name": "his",
-  "version": "0.1.3",
-  "description": "emulate human mouse and keyboard input",
+  "version": "0.1.4",
+  "description": "Human Input Simulation (HIS) attempts to emulate human interactions",
   "repository": {
     "type": "git",
     "url": "https://github.com/tbanik/human-input-simulation"

@@ -34,7 +34,7 @@ const move_to_random = () => {
 
 move_to_random() */
 
-let total = 0;
+/* let total = 0;
 let mouse;
 let moves = [[50,50],[250,50],[250,250],[50,250],[50,50],[250,250]]
 const move_to_next = () => {
@@ -65,7 +65,7 @@ const move_to_next = () => {
     else HIS.mouseToggle('up');
 }
 
-move_to_next()
+move_to_next() */
 
 
 /*
@@ -75,7 +75,7 @@ HIS.moveMouse(mouse.x,mouse.y, 50, 153, 10, 0.7, 0.3, robot.moveMouse) */
 
 
 
-/* let screen = HIS.getScreenSize();
+let screen = HIS.getScreenSize();
 mouse = HIS.getMousePos();
 HIS.moveMouse({
     xStart: mouse.x,
@@ -97,4 +97,4 @@ for (let index = 0; index < 10; index++) {
         fatigue: 0.4,
         speed:1
     })
-} */
+}
